@@ -39,13 +39,6 @@ To download all the dependencies, simply run `scripts/install.py` using the comm
 ```zsh
 python3 scripts/install.py
 ```
-
-### 1.1.2. Step 4 - Run the app
-Run the app using the following `gui.py` file:
-
-```zsh
-python3 src/gui.py
-```
 if for any reason the script fails to install any dependency, manually install them using the following commands:
 
 ```zsh
@@ -53,6 +46,13 @@ pip install PySimpleGUI
 pip install pycda
 pip install opencv-python
 pip install numpy
+```
+
+### 1.1.2. Step 4 - Run the app
+Run the app using the following `gui.py` file:
+
+```zsh
+python3 src/gui.py
 ```
 
 ## 1.2. Main Screen
