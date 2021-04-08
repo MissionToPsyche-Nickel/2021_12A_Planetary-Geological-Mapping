@@ -71,15 +71,17 @@ Performs automated crater detection on a sample image from PyCDA. Useful to see 
 
 ### 1.3.3. `Draw`
 Allows the user to select any image from their computer and draw on it. Useful to manually draw craters on an image or to cross out craters that the program has
-incorrectly identified. Note: to use this feature, you must select the image you wish to draw on when the program starts. 
+incorrectly identified. Note: to use this feature, you must select the image you 
+wish to draw on when the program starts. 
+
 ![Browse For Image](image/drawbrowse.png?raw=true "Browse For Image")
 ![Drawing](image/drawresults.png?raw=true "Drawing")
 
 ### 1.3.4. `Exit`
-Allows the user to exit the program. The useer can also press the x at the top right to quit the program.
+Allows the user to exit the program. The user can also press the x at the top right to quit the program.
 
-![Library Record Label](image/Library-Record-Label.png?raw=true "Library Record Label")
-![Update Record Label](image/Update-Record-Label.png?raw=true "Update Record Label")
+![Exit](image/exit.png?raw=true "Exit")
+
 
 ## 1.4. Video Demo of App
 See a demo of the app [here](https://www.youtube.com/watch?v=4YLGX1ezpxA&ab_channel=AurelioVillalobos)
