@@ -67,6 +67,7 @@ you specify.
 
 ### 1.3.2. `Detect on Sample Image`
 Performs automated crater detection on a sample image from PyCDA. Useful to see how detailed results can be with error correction.
+
 ![Sample Image Results](image/sampleresults.png?raw=true "Sample Image Results")
 
 ### 1.3.3. `Draw`
