@@ -46,6 +46,14 @@ Run the app using the following `gui.py` file:
 ```zsh
 python3 src/gui.py
 ```
+if for any reason the script fails to install any dependency, manually install them using the following commands:
+
+```zsh
+pip install PySimpleGUI
+pip install pycda
+pip install opencv-python
+pip install numpy
+```
 
 ## 1.2. Main Screen
 This project has 4 buttons. They are:
