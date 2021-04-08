@@ -5,7 +5,7 @@
 </p>
 
 
-- [1. H.A.M.L. User Manual (CSE 485/486 NASA Geological Mapping Group)](#1-user-manual)
+- [1.User Manual (CSE 485/486 NASA Geological Mapping Group)](#1-user-manual)
   - [1.1. Setup](#11-setup)
     - [1.1.1. Step 1 - Python Dependencies](#111-step-1---python-dependencies)
     - [1.1.2. Step 2 - Run the app](#112-step-4---run-the-app)
